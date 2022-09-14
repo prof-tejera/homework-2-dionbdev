@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/homework-2-dionbdev/static/css/main.073c9b0a.css",
+    "main.js": "/homework-2-dionbdev/static/js/main.d3f72acd.js",
+    "static/js/787.b0e29ad6.chunk.js": "/homework-2-dionbdev/static/js/787.b0e29ad6.chunk.js",
+    "index.html": "/homework-2-dionbdev/index.html",
+    "main.073c9b0a.css.map": "/homework-2-dionbdev/static/css/main.073c9b0a.css.map",
+    "main.d3f72acd.js.map": "/homework-2-dionbdev/static/js/main.d3f72acd.js.map",
+    "787.b0e29ad6.chunk.js.map": "/homework-2-dionbdev/static/js/787.b0e29ad6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d3f72acd.js"
+  ]
+}
