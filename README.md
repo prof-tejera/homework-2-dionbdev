@@ -42,6 +42,6 @@ Deploy the application using Github Pages (https://github.com/prof-tejera/react-
 Edit this file (README.md) and complete the following:
 
 - URL to live application: https://prof-tejera.github.io/homework-2-dionbdev/
-- What code editor are you using? VCode
+- What code editor are you using? VSCode
 
 That is all!
